@@ -1,7 +1,7 @@
-const Engine = Matter.Engine,
-      World = Matter.World,
-      Events = Matter.Events,
-      Bodies = Matter.Bodies;
+const Engine = Matter.Engine;
+const World = Matter.World;
+const Events = Matter.Events;
+const Bodies = Matter.Bodies;
  
 var particle;
 var count = 0;
